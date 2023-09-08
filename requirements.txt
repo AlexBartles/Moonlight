@@ -1,0 +1,6 @@
+fade
+requests
+colorama
+discord
+tqdm
+turtle
